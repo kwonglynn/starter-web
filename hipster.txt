@@ -1,1 +1,3 @@
 Some text added today.
+
+Add a new line.
