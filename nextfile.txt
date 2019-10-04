@@ -1,3 +1,5 @@
 Just add a new file.
 
 Add one line on branch 1.
+
+Add a second line.
