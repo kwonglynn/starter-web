@@ -1,4 +1,5 @@
 Add one line on branch 1 for rebase example.
+Add a second line on branch 1 for rebase example.
 
 Guanglin Kuang
 # Starter Web Repo
