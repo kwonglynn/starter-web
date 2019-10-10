@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 
 ## License
 This line is just added.
+
+Add one line on the master for rebase example.
