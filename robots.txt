@@ -1,3 +1,4 @@
 # robotstxt.org/
 Add one line on the remote master.
 User-agent: *
+Add a third on the remote master.
