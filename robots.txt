@@ -1,5 +1,0 @@
-# robotstxt.org/ Modified on the remote master.
-Add one line on the remote master.
-Add a second line on the local master.
-User-agent: *
-Add a third on the remote master.
