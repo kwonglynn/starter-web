@@ -1,7 +1,7 @@
 Add one line on branch 1 for rebase example.
 Add a second line on branch 1 for rebase example.
 
-Guanglin Kuang
+Guanglin Kuang on 2019-10-13
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
